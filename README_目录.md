@@ -114,12 +114,15 @@
 - [第一百零一章：黄连素 & 大...](chapter-37.md)
 - [第一百零二章：竹林巧遇](chapter-38.md)
 
+</td></tr>
+</table>
+
 ## 📝 后记
 
 <table>
 <tr><td valign="top">
 
-- [后记开启：哔——](chapter_001_第一章：穿越.md)
+- [后记开启：哔——](chapter_001_第一章：穿越.md#后记开启)
 - [后记：流言一](postscript-02.md)
 - [后记：免责声明一](postscript-03.md)
 - [后记：小花驴](postscript-04.md)
@@ -137,8 +140,6 @@
 - [后记五：站队](postscript-10.md)
 - [后记：传言四-太子真棒！](postscript-11.md)
 
-</td></tr>
-</table>
 </td></tr>
 </table>
 
